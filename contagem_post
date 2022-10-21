@@ -1,0 +1,4 @@
+Contagem Posts
+
+postagem_usuario = Post.query.filter_by(id_usuario = )
+postagem_usuario.count()
